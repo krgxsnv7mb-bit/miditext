@@ -114,6 +114,10 @@ A full project with source included:
 and result with ARachno soundfont
 [tpdcv4.7.ogg](http://vrac.quentinc.net/tpdcv4.7.ogg)
 
+## More music
+[packminiel.zip](http://vrac.quentinc.net/packminiel.zip), zip archive about 50MB  
+A pack of my best songs ever, all made with MidiText or one of its predecessors since 2003.
+
 
 # MidiText Syntax
 ## Notes and length
